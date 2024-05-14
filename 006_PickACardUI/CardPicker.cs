@@ -22,6 +22,11 @@ namespace _006_PickACardUI
         //}
 
         //изменил PickSomeCards, чтобы не было дупликатов
+        /// <summary>
+        /// Выбирает несколько карт и возвращает их
+        /// </summary>
+        /// <param name="numberOfCards">Количество выбираемых карт.</param>
+        /// <returns>Массив строк с названиями карт.</returns>
         public static string[] PickSomeCards(int numberOfCards)
         {
             int maxCards = 36;
