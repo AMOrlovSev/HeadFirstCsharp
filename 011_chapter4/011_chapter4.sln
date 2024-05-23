@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_AbilityScoreTester", "03
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_сумма double", "04_сумма double\04_сумма double.csproj", "{AEF6D968-47E9-4F41-97FA-14DF426B7E91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Elephant", "05_Elephant\05_Elephant.csproj", "{091E592A-AD1D-403D-91BD-744949289513}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_Elephant", "05_Elephant\05_Elephant.csproj", "{091E592A-AD1D-403D-91BD-744949289513}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_Random", "06_Random\06_Random.csproj", "{A9B65EA8-DBF4-4684-9105-42E5FEF49604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Menu", "07_Menu\07_Menu.csproj", "{0511F929-1266-431B-AB34-075858D52D46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{091E592A-AD1D-403D-91BD-744949289513}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{091E592A-AD1D-403D-91BD-744949289513}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{091E592A-AD1D-403D-91BD-744949289513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B65EA8-DBF4-4684-9105-42E5FEF49604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B65EA8-DBF4-4684-9105-42E5FEF49604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B65EA8-DBF4-4684-9105-42E5FEF49604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B65EA8-DBF4-4684-9105-42E5FEF49604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0511F929-1266-431B-AB34-075858D52D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0511F929-1266-431B-AB34-075858D52D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0511F929-1266-431B-AB34-075858D52D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0511F929-1266-431B-AB34-075858D52D46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
