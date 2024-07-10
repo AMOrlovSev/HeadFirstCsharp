@@ -11,23 +11,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_PppPppL", "03_PppPppL\03
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_Duck_Comparer", "04_Duck\04_Duck_Comparer.csproj", "{E5C4AA0A-46CF-4F87-8230-BC14EEF610F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_CardComparer", "05_CardComparer\05_CardComparer.csproj", "{CE7EE060-7D42-4ECD-9286-BDC1E7CC4FDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_CardComparer", "05_CardComparer\05_CardComparer.csproj", "{CE7EE060-7D42-4ECD-9286-BDC1E7CC4FDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Dog_Comparer", "06_Dog_Comparer\06_Dog_Comparer.csproj", "{81C277C1-C47D-4C1E-8A92-07E230093E0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_Dog_Comparer", "06_Dog_Comparer\06_Dog_Comparer.csproj", "{81C277C1-C47D-4C1E-8A92-07E230093E0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_BirdCovariance", "07_BirdCovariance\07_BirdCovariance.csproj", "{3B159873-2D72-43DF-A365-110F658C3ECE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_BirdCovariance", "07_BirdCovariance\07_BirdCovariance.csproj", "{3B159873-2D72-43DF-A365-110F658C3ECE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Dictionary", "08_Dictionary\08_Dictionary.csproj", "{0A140E3B-9207-4842-B89A-C7B3EB320B91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_Dictionary", "08_Dictionary\08_Dictionary.csproj", "{0A140E3B-9207-4842-B89A-C7B3EB320B91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_retiredYankees", "09_retiredYankees\09_retiredYankees.csproj", "{D16C3852-84AE-4438-8B83-78D6C26F26A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_retiredYankees", "09_retiredYankees\09_retiredYankees.csproj", "{D16C3852-84AE-4438-8B83-78D6C26F26A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Queue", "10_Queue\10_Queue.csproj", "{2763BE7A-DD4C-49E2-AF12-50E8F6BB071E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_Queue", "10_Queue\10_Queue.csproj", "{2763BE7A-DD4C-49E2-AF12-50E8F6BB071E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_Stack", "11_Stack\11_Stack.csproj", "{18C1255E-4DD7-4B9D-A53F-F75DE7B231AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11_Stack", "11_Stack\11_Stack.csproj", "{18C1255E-4DD7-4B9D-A53F-F75DE7B231AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_copyStackQueueList", "12_copyStackQueueList\12_copyStackQueueList.csproj", "{4FB4CF0B-141B-42A4-BB9A-B2AD82AD207C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_copyStackQueueList", "12_copyStackQueueList\12_copyStackQueueList.csproj", "{4FB4CF0B-141B-42A4-BB9A-B2AD82AD207C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Lumberjack", "13_Lumberjack\13_Lumberjack.csproj", "{176AD247-040E-49A0-9141-C16C4F5F41E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_Lumberjack", "13_Lumberjack\13_Lumberjack.csproj", "{176AD247-040E-49A0-9141-C16C4F5F41E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

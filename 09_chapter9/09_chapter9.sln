@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_LinqTest", "01_LinqTest\01_LinqTest.csproj", "{6C620D19-E026-4B45-A1D4-65E9FAF7FCBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_AddSubtract", "02_AddSubtract\02_AddSubtract.csproj", "{BC5C7057-82F8-4F49-81FB-5C6DA3F8D6C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_LinqComic", "03_LinqComic\03_LinqComic.csproj", "{40DC19C9-9A45-409C-AA73-96A6F1BDD682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_magnits", "04_magnits\04_magnits.csproj", "{9F6CFD71-524D-4DE7-86BD-5C960FE34489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_PrintWhenGetting", "05_PrintWhenGetting\05_PrintWhenGetting.csproj", "{2D4B8485-E8C3-4AA2-8643-BEBA21A9F4F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_CardLinq", "06_CardLinq\06_CardLinq.csproj", "{F6F076F3-3AC5-4379-BB21-B95B0F687C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C620D19-E026-4B45-A1D4-65E9FAF7FCBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C620D19-E026-4B45-A1D4-65E9FAF7FCBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C620D19-E026-4B45-A1D4-65E9FAF7FCBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C620D19-E026-4B45-A1D4-65E9FAF7FCBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5C7057-82F8-4F49-81FB-5C6DA3F8D6C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5C7057-82F8-4F49-81FB-5C6DA3F8D6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5C7057-82F8-4F49-81FB-5C6DA3F8D6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5C7057-82F8-4F49-81FB-5C6DA3F8D6C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40DC19C9-9A45-409C-AA73-96A6F1BDD682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40DC19C9-9A45-409C-AA73-96A6F1BDD682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40DC19C9-9A45-409C-AA73-96A6F1BDD682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40DC19C9-9A45-409C-AA73-96A6F1BDD682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6CFD71-524D-4DE7-86BD-5C960FE34489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6CFD71-524D-4DE7-86BD-5C960FE34489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6CFD71-524D-4DE7-86BD-5C960FE34489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6CFD71-524D-4DE7-86BD-5C960FE34489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D4B8485-E8C3-4AA2-8643-BEBA21A9F4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4B8485-E8C3-4AA2-8643-BEBA21A9F4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4B8485-E8C3-4AA2-8643-BEBA21A9F4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4B8485-E8C3-4AA2-8643-BEBA21A9F4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6F076F3-3AC5-4379-BB21-B95B0F687C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F076F3-3AC5-4379-BB21-B95B0F687C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F076F3-3AC5-4379-BB21-B95B0F687C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F076F3-3AC5-4379-BB21-B95B0F687C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58059B83-081E-49C2-9D75-F81011F22D0E}
+	EndGlobalSection
+EndGlobal
