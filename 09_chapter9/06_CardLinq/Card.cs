@@ -4,7 +4,7 @@ using System.Text;
 
 namespace _06_CardLinq
 {
-    class Card : IComparable<Card>
+    public class Card : IComparable<Card>
     {
         public int CompareTo(Card other)
         {

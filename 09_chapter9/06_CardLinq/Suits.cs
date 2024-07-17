@@ -4,7 +4,7 @@ using System.Text;
 
 namespace _06_CardLinq
 {
-    enum Suits
+    public enum Suits
     {
         Diamonds,
         Clubs,
