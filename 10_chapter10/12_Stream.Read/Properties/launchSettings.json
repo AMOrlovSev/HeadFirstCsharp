@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "12_Stream.Read": {
+      "commandName": "Project",
+      "commandLineArgs": "binarydata.dat"
+    }
+  }
+}
