@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ex02_TryCatchFinally": {
+      "commandName": "Project",
+      "commandLineArgs": "F:\\_programmingLiterature\\Head_First_C#\\12_chapter12\\Ex02_TryCatchFinally\\bin\\Debug\\net8.0\\strings.txt"
+    }
+  }
+}
